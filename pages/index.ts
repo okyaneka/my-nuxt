@@ -1,1 +1,1 @@
-export { default } from "@modules/public_user";
+export { default } from "../app/modules/public_user";
